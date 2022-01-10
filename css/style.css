@@ -379,7 +379,7 @@ footer {
 @media (max-width: 400px) {
 
     body, main, .header__content {
-        width: 100vh;
+        width: 100vw;
     }
     /* -------VISIBILITY-------*/
     .hide-for-mobile {
